@@ -1,6 +1,6 @@
-# Bits & Logic operations
+# Bits & Logical operations
 
-### &&, || and !:
+### Logical operations - &&, || and !:
     !0x41 -> 0x00
     !0x00 -> 0x01
     !!0x41 -> 0x01
